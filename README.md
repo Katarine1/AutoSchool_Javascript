@@ -1,4 +1,4 @@
-# AutoScool_Javascript
+# AutoSchool_Javascript
 
 <h2>Javascript application</h2>
 
